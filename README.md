@@ -2,36 +2,45 @@
 
 Undergraduate researcher in Statistics at Jeonbuk National University.
 
-My research interests center on reliable and generalizable statistical machine learning for biomedical data, including model stability, population shift, transfer learning, and interpretable machine learning.
+I study reliable and generalizable statistical machine learning for biomedical data.
 
-## Research Interests
+[Paper Reviews](#paper-reviews) · [Research Experience](#research-experience) · [Personal Website](#personal-website)
 
-- Statistical Machine Learning
-- Biomedical Data Science
-- Reliable and Generalizable Prediction
-- Transfer Learning and Domain/Population Shift
-- Model Reproducibility and Stability
-- Interpretable Machine Learning
-
-## Research / Current Work
-
-My current work focuses on:
-
-- Reliability and reproducibility of transfer learning across heterogeneous clinical populations
-- Statistical and machine-learning methods for biomedical and clinical data
-- Interpretability and prediction stability
+---
 
 ## Paper Reviews
 
-I maintain notes and reviews of papers in statistics, machine learning, biomedical AI, and related topics.
+Notes and reviews of papers in statistics, machine learning, biomedical AI, and related topics.
 
-- [Paper Review Website](https://gimnamyun5.github.io/paper-reviews/)
-- [Paper Review Repository](https://github.com/gimnamyun5/paper-reviews)
+<details>
+<summary><strong>A Bootstrap Algorithm for Comparing Diagnostic Test Accuracy in Meta-analysis</strong></summary>
 
-## Academic Website
+<br>
 
-[Personal Academic Website](https://gimnamyun5.github.io/)
+**Authors:** Seungyong Hwang, Janghyun Kim, and Hyemi Choi
 
-## GitHub Projects
+**Topics:** Meta-analysis, Bootstrap
 
-Selected research and code repositories can be found in the pinned repositories below.
+A correlation-aware bootstrap method for comparing SROC AUCs in diagnostic test accuracy meta-analysis.
+
+[Read the full review](https://gimnamyun5.github.io/paper-reviews/papers/Hwang-2026-corrboot.html)
+
+</details>
+
+[Browse all paper reviews](https://gimnamyun5.github.io/paper-reviews/) · [View repository](https://github.com/gimnamyun5/paper-reviews)
+
+---
+
+## Research Experience
+
+My current research focuses on:
+
+- Reliability and reproducibility of transfer learning across heterogeneous clinical populations
+- Statistical and machine-learning methods for biomedical and clinical data
+- Interpretable machine learning and prediction stability
+
+---
+
+## Personal Website
+
+[Visit my personal academic website](https://gimnamyun5.github.io/)
